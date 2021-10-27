@@ -11,3 +11,12 @@
   yarn add 
 ```
 
+## Publish
+
+```
+npm login
+```
+
+```
+npm publish
+```
